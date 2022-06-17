@@ -1,0 +1,12 @@
+.bloop/
+.bsp/
+.idea/
+.metals/
+.parcel-cache/
+.scala-build/
+.vscode/
+dist/
+node_modules/
+target/
+metals.sbt
+yarn.lock
